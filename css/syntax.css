@@ -1,0 +1,626 @@
+
+  
+
+  
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <title>css/syntax.css at master from mojombo's mojombo.github.com - GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
+    <link rel="fluid-icon" href="http://github.com/fluidicon.png" title="GitHub" />
+
+    
+      <link href="http://assets3.github.com/stylesheets/bundle.css?8d3a65d56de1b7b1274c6fe5b485bd046ca0d71d" media="screen" rel="stylesheet" type="text/css" />
+    
+
+    
+      
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+        <script src="http://assets1.github.com/javascripts/bundle.js?8d3a65d56de1b7b1274c6fe5b485bd046ca0d71d" type="text/javascript"></script>
+      
+    
+    
+  
+    
+  
+
+  <link href="http://github.com/feeds/mojombo/commits/mojombo.github.com/master" rel="alternate" title="Recent Commits to mojombo.github.com:master" type="application/atom+xml" />
+
+        <meta name="description" content="" />
+    <script type="text/javascript">
+      GitHub.nameWithOwner = GitHub.nameWithOwner || "mojombo/mojombo.github.com";
+      GitHub.currentRef = "master";    
+    </script>
+  
+
+    
+
+    <script type="text/javascript">
+      github_user = 'realtome'
+    </script>
+  </head>
+
+  
+
+  <body>
+    
+
+    <div id="main">
+      <div id="header" class="">
+        <div class="site">
+          <div class="logo">
+            <a href="https://github.com"><img src="/images/modules/header/logov3.png" alt="github" /></a>
+          </div>
+          
+            
+  <div class="userbox">
+    <div class="inner">
+      <div class="avatarname">
+        <a href="http://github.com/realtome"><img alt="" height="20" src="https://secure.gravatar.com/avatar/091ec7b9ca3b7a1d6b952a9c0e44ad36?s=20&amp;d=http%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-20.png" width="20" /></a>
+        <a href="http://github.com/realtome" class="name">realtome</a>
+      </div>
+      <ul class="usernav">
+        <li><a href="https://github.com">Dashboard</a></li>
+        <li>
+          
+          <a href="https://github.com/inbox">Inbox</a>
+          <a href="https://github.com/inbox" class="unread_count ">0</a>
+        </li>
+        <li><a href="https://github.com/account">Account Settings</a></li>
+                <li><a href="/logout">Log Out</a></li>
+      </ul>
+    </div>
+  </div><!-- /.userbox -->
+
+          
+          <div class="topsearch">
+  
+    <form action="/search" id="top_search_form" method="get">
+      <a href="/search" class="advanced-search" title="Advanced Search">Advanced Search</a>
+      <input type="search" class="search repo_autocompleter" name="q" results="5" placeholder="Search GitHub&hellip;" /> <input type="submit" value="Search", class="button" />
+      <input type="hidden" name="type" value="Everything" />
+      <input type="hidden" name="repo" value="" />
+      <input type="hidden" name="langOverride" value="" />
+      <input type="hidden" name="start_value" value="1" />
+    </form>
+  
+  
+    <ul class="nav">
+      <li><a href="/repositories">Explore GitHub</a></li>
+      <li><a href="http://gist.github.com">Gist</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="http://help.github.com">Help</a></li>
+    </ul>
+  
+</div>
+        </div>
+      </div>
+
+      
+        
+      <div id="repo_menu">
+        <div class="site">
+          <ul>
+            
+              <li class="active"><a href="http://github.com/mojombo/mojombo.github.com/tree/master">Source</a></li>
+
+              <li class=""><a href="http://github.com/mojombo/mojombo.github.com/commits/master">Commits</a></li>
+
+              
+              <li class=""><a href="/mojombo/mojombo.github.com/network">Network (13)</a></li>
+
+              
+
+              
+                
+                <li class=""><a href="/mojombo/mojombo.github.com/issues">Issues (0)</a></li>
+              
+
+              
+                
+                <li class=""><a href="/mojombo/mojombo.github.com/downloads">Downloads (0)</a></li>
+              
+
+              
+                
+                <li class=""><a href="http://wiki.github.com/mojombo/mojombo.github.com">Wiki (1)</a></li>
+              
+
+              <li class=""><a href="/mojombo/mojombo.github.com/graphs">Graphs</a></li>
+
+              
+
+            
+          </ul>
+        </div>
+      </div>
+
+    <div id="repo_sub_menu">
+      <div class="site">
+        <div class="joiner"></div>
+        
+
+        
+
+        
+
+        
+      </div>
+    </div>
+
+    <div class="site">
+      
+
+
+
+
+
+<div id="repos">
+  
+
+
+<script type="text/javascript">
+  GitHub.currentCommitRef = "master"
+  GitHub.currentRepoOwner = "mojombo"
+  GitHub.currentRepo = "mojombo.github.com"
+  
+    GitHub.hasWriteAccess = false
+    GitHub.watchingRepo = false
+    GitHub.ignoredRepo = false
+    GitHub.hasForkOfRepo = ""
+  
+</script>
+
+
+
+  <div class="repo public" id="repo_details">
+    <div class="title">
+      <div class="path">
+        <a href="/mojombo">mojombo</a> / <b><a href="http://github.com/mojombo/mojombo.github.com">mojombo.github.com</a></b>
+
+        
+
+          <span id="edit_button" style="display:none;">
+            <a href="/mojombo/mojombo.github.com/edit"><img alt="edit" class="button" src="http://assets1.github.com/images/modules/repos/edit_button.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></a>
+          </span>
+
+          
+            <span id="pull_request_button" style="display:none;">
+              <a href="/mojombo/mojombo.github.com/pull_request/" class="pull_request_button"><img alt="pull request" class="button" src="http://assets0.github.com/images/modules/repos/pull_request_button.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></a>
+            </span>
+
+            <span id="fork_button">
+              <form method="POST" action="/mojombo/mojombo.github.com/fork" style="display:inline;">
+                <input alt="fork" class="button" src="http://assets1.github.com/images/modules/repos/fork_button.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" type="image" />
+              </form>
+            </span>
+          
+
+          <span id="watch_button">
+            <a href="/mojombo/mojombo.github.com/toggle_watch" class="toggle_watch"><img alt="watch" class="button" src="http://assets0.github.com/images/modules/repos/watch_button.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></a>
+          </span>
+
+          <span id="unwatch_button" style="display:none;">
+            <a href="/mojombo/mojombo.github.com/toggle_watch" class="toggle_watch"><img alt="watch" class="button" src="http://assets3.github.com/images/modules/repos/unwatch_button.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></a>
+          </span>
+
+          
+            <a href="/mojombo/mojombo.github.com/archives/ef0bf4734723a2640fc15dbf370de8a610b725b3" id="download_button">
+              <img alt="download tarball" class="button" src="http://assets3.github.com/images/modules/repos/download_button.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" />
+            </a>
+          
+        
+      </div>
+
+      <div class="security private_security" style="display:none">
+        <a href="#private_repo" rel="facebox"><img src="/images/icons/private.png" alt="private" /></a>
+      </div>
+
+      <div id="private_repo" class="hidden">
+        This repository is private.
+        All pages are served over SSL and all pushing and pulling is done over SSH.
+        No one may fork, clone, or view it unless they are added as a <a href="/mojombo/mojombo.github.com/edit">member</a>.
+
+        <br/>
+        <br/>
+        Every repository with this icon (<img src="/images/icons/private.png" alt="private" />) is private.
+      </div>
+
+      <div class="security public_security" style="">
+        <a href="#public_repo" rel="facebox"><img src="/images/icons/public.png" alt="public" /></a>
+      </div>
+
+      <div id="public_repo" class="hidden">
+        This repository is public.
+        Anyone may fork, clone, or view it.
+
+        <br/>
+        <br/>
+        Every repository with this icon (<img src="/images/icons/public.png" alt="public" />) is public.
+      </div>
+
+      
+
+        <div class="flexipill">
+          <a href="/mojombo/mojombo.github.com/network">
+          <table cellpadding="0" cellspacing="0">
+            <tr><td><img alt="Forks" src="http://assets1.github.com/images/modules/repos/pills/forks.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></td><td class="middle"><span>13</span></td><td><img alt="Right" src="http://assets2.github.com/images/modules/repos/pills/right.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></td></tr>
+          </table>
+          </a>
+        </div>
+
+        <div class="flexipill">
+          <a href="/mojombo/mojombo.github.com/watchers">
+          <table cellpadding="0" cellspacing="0">
+            <tr><td><img alt="Watchers" src="http://assets1.github.com/images/modules/repos/pills/watchers.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></td><td class="middle"><span>48</span></td><td><img alt="Right" src="http://assets2.github.com/images/modules/repos/pills/right.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></td></tr>
+          </table>
+          </a>
+        </div>
+      </div>
+
+    <div class="meta">
+      <table>
+        
+        <tr>
+          <td class="label">Description:</td>
+          <td>
+            <span id="repository_description" rel="/mojombo/mojombo.github.com/edit/update"></span>
+            <a href="#description" class="edit_link action" style="display:none;">edit</a>
+          </td>
+        </tr>
+
+        
+            <tr>
+              <td class="label">Homepage:</td>
+              <td>
+                
+                <span id="repository_homepage" rel="/mojombo/mojombo.github.com/edit/update">
+                  <a href="http://"></a>
+                </span>
+                <a href="#homepage" class="edit_link action" style="display:none;">edit</a>
+              </td>
+            </tr>
+
+          
+            <tr>
+              <td class="label"><span id="public_clone_text" style="display:none;">Public&nbsp;</span>Clone&nbsp;URL:</td>
+              
+              <td>
+                <a href="git://github.com/mojombo/mojombo.github.com.git" class="git_url_facebox" rel="#git-clone">git://github.com/mojombo/mojombo.github.com.git</a>
+                      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+              width="110"
+              height="14"
+              class="clippy"
+              id="clippy" >
+      <param name="movie" value="/flash/clippy.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="quality" value="high" />
+      <param name="scale" value="noscale" />
+      <param NAME="FlashVars" value="text=git://github.com/mojombo/mojombo.github.com.git">
+      <param name="bgcolor" value="#F0F0F0">
+      <param name="wmode" value="opaque">
+      <embed src="/flash/clippy.swf"
+             width="110"
+             height="14"
+             name="clippy"
+             quality="high"
+             allowScriptAccess="always"
+             type="application/x-shockwave-flash"
+             pluginspage="http://www.macromedia.com/go/getflashplayer"
+             FlashVars="text=git://github.com/mojombo/mojombo.github.com.git"
+             bgcolor="#F0F0F0"
+             wmode="opaque"
+      />
+      </object>
+
+                <div id="git-clone" style="display:none;">
+                  Give this clone URL to anyone.
+                  <br/>
+                  <code>git clone git://github.com/mojombo/mojombo.github.com.git </code>
+                </div>
+              </td>
+            </tr>
+          
+
+          <tr id="private_clone_url" style="display:none;">
+            <td class="label">Your Clone URL:</td>
+            
+            <td>
+
+              <div id="private-clone-url">
+                <a href="git@github.com:mojombo/mojombo.github.com.git" class="git_url_facebox" rel="#your-git-clone">git@github.com:mojombo/mojombo.github.com.git</a>
+                <input type="text" value="git@github.com:mojombo/mojombo.github.com.git" style="display: none;" />
+                      <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+              width="110"
+              height="14"
+              class="clippy"
+              id="clippy" >
+      <param name="movie" value="/flash/clippy.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="quality" value="high" />
+      <param name="scale" value="noscale" />
+      <param NAME="FlashVars" value="text=git@github.com:mojombo/mojombo.github.com.git">
+      <param name="bgcolor" value="#F0F0F0">
+      <param name="wmode" value="opaque">
+      <embed src="/flash/clippy.swf"
+             width="110"
+             height="14"
+             name="clippy"
+             quality="high"
+             allowScriptAccess="always"
+             type="application/x-shockwave-flash"
+             pluginspage="http://www.macromedia.com/go/getflashplayer"
+             FlashVars="text=git@github.com:mojombo/mojombo.github.com.git"
+             bgcolor="#F0F0F0"
+             wmode="opaque"
+      />
+      </object>
+
+              </div>
+
+              <div id="your-git-clone" style="display:none;">
+                Use this clone URL yourself.
+                <br/>
+                <code>git clone git@github.com:mojombo/mojombo.github.com.git </code>
+              </div>
+            </td>
+          </tr>
+
+          
+
+          
+
+          
+      </table>
+
+          </div>
+  </div>
+
+
+
+
+
+
+</div>
+
+
+  <div id="commit">
+    <div class="group">
+        
+  <div class="envelope commit">
+    <div class="human">
+      
+        <div class="message"><pre><a href="/mojombo/mojombo.github.com/commit/1ff9ec210d22b4e774f226917e5a50668b7addea">make it HTML5!</a> <a href="/mojombo/mojombo.github.com/commit/1ff9ec210d22b4e774f226917e5a50668b7addea#comments"><img alt="Comment" src="http://assets1.github.com/images/modules/dashboard/news/comment.png?b8fc7a9e07be9c5fc8095030511a5aa4e9e95b8f" /></a></pre></div>
+      
+
+      <div class="actor">
+        <div class="gravatar">
+          
+          <img alt="" height="30" src="http://www.gravatar.com/avatar/25c7c18223fb42a4c6ae1c8db6f50f9b?s=30&amp;d=http%3A%2F%2Fgithub.com%2Fimages%2Fgravatars%2Fgravatar-30.png" width="30" />
+        </div>
+        <div class="name"><a href="/mojombo">mojombo</a> <span>(author)</span></div>
+          <div class="date">
+            <abbr class="relatize" title="2009-09-28 02:07:29">Mon Sep 28 02:07:29 -0700 2009</abbr> 
+          </div>
+      </div>
+  
+      
+  
+    </div>
+    <div class="machine">
+      <span>c</span>ommit&nbsp;&nbsp;<a href="/mojombo/mojombo.github.com/commit/1ff9ec210d22b4e774f226917e5a50668b7addea" hotkey="c">1ff9ec210d22b4e774f226917e5a50668b7addea</a><br />
+      <span>t</span>ree&nbsp;&nbsp;&nbsp;&nbsp;<a href="/mojombo/mojombo.github.com/tree/1ff9ec210d22b4e774f226917e5a50668b7addea" hotkey="t">bfebeeafd27e4ff9a9fdc2be67d728ef4b062cf5</a><br />
+  
+      
+        <span>p</span>arent&nbsp;
+        
+        <a href="/mojombo/mojombo.github.com/tree/13f59e9704251cd26cd483ab7f9b4ec37faf6a1b" hotkey="p">13f59e9704251cd26cd483ab7f9b4ec37faf6a1b</a>
+      
+  
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+
+
+  
+    <div id="path">
+      <b><a href="/mojombo/mojombo.github.com/tree/master">mojombo.github.com</a></b> / <a href="/mojombo/mojombo.github.com/tree/master/css">css</a> / syntax.css       <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+              width="110"
+              height="14"
+              class="clippy"
+              id="clippy" >
+      <param name="movie" value="/flash/clippy.swf"/>
+      <param name="allowScriptAccess" value="always" />
+      <param name="quality" value="high" />
+      <param name="scale" value="noscale" />
+      <param NAME="FlashVars" value="text=css/syntax.css">
+      <param name="bgcolor" value="#FFFFFF">
+      <param name="wmode" value="opaque">
+      <embed src="/flash/clippy.swf"
+             width="110"
+             height="14"
+             name="clippy"
+             quality="high"
+             allowScriptAccess="always"
+             type="application/x-shockwave-flash"
+             pluginspage="http://www.macromedia.com/go/getflashplayer"
+             FlashVars="text=css/syntax.css"
+             bgcolor="#FFFFFF"
+             wmode="opaque"
+      />
+      </object>
+
+    </div>
+
+    <div id="files">
+      <div class="file">
+        <div class="meta">
+          <div class="info">
+            <span>100644</span>
+            <span>61 lines (60 sloc)</span>
+            <span>3.738 kb</span>
+          </div>
+          <div class="actions">
+            
+            <a href="/mojombo/mojombo.github.com/raw/master/css/syntax.css" id="raw-url">raw</a>
+            
+              <a href="/mojombo/mojombo.github.com/blame/master/css/syntax.css">blame</a>
+            
+            <a href="/mojombo/mojombo.github.com/commits/master/css/syntax.css">history</a>
+          </div>
+        </div>
+        
+  <div class="data syntax type-css">
+    
+      <table cellpadding="0" cellspacing="0">
+        <tr>
+          <td>
+            
+            <pre class="line_numbers">
+<span id="LID1" rel="#L1">1</span>
+<span id="LID2" rel="#L2">2</span>
+<span id="LID3" rel="#L3">3</span>
+<span id="LID4" rel="#L4">4</span>
+<span id="LID5" rel="#L5">5</span>
+<span id="LID6" rel="#L6">6</span>
+<span id="LID7" rel="#L7">7</span>
+<span id="LID8" rel="#L8">8</span>
+<span id="LID9" rel="#L9">9</span>
+<span id="LID10" rel="#L10">10</span>
+<span id="LID11" rel="#L11">11</span>
+<span id="LID12" rel="#L12">12</span>
+<span id="LID13" rel="#L13">13</span>
+<span id="LID14" rel="#L14">14</span>
+<span id="LID15" rel="#L15">15</span>
+<span id="LID16" rel="#L16">16</span>
+<span id="LID17" rel="#L17">17</span>
+<span id="LID18" rel="#L18">18</span>
+<span id="LID19" rel="#L19">19</span>
+<span id="LID20" rel="#L20">20</span>
+<span id="LID21" rel="#L21">21</span>
+<span id="LID22" rel="#L22">22</span>
+<span id="LID23" rel="#L23">23</span>
+<span id="LID24" rel="#L24">24</span>
+<span id="LID25" rel="#L25">25</span>
+<span id="LID26" rel="#L26">26</span>
+<span id="LID27" rel="#L27">27</span>
+<span id="LID28" rel="#L28">28</span>
+<span id="LID29" rel="#L29">29</span>
+<span id="LID30" rel="#L30">30</span>
+<span id="LID31" rel="#L31">31</span>
+<span id="LID32" rel="#L32">32</span>
+<span id="LID33" rel="#L33">33</span>
+<span id="LID34" rel="#L34">34</span>
+<span id="LID35" rel="#L35">35</span>
+<span id="LID36" rel="#L36">36</span>
+<span id="LID37" rel="#L37">37</span>
+<span id="LID38" rel="#L38">38</span>
+<span id="LID39" rel="#L39">39</span>
+<span id="LID40" rel="#L40">40</span>
+<span id="LID41" rel="#L41">41</span>
+<span id="LID42" rel="#L42">42</span>
+<span id="LID43" rel="#L43">43</span>
+<span id="LID44" rel="#L44">44</span>
+<span id="LID45" rel="#L45">45</span>
+<span id="LID46" rel="#L46">46</span>
+<span id="LID47" rel="#L47">47</span>
+<span id="LID48" rel="#L48">48</span>
+<span id="LID49" rel="#L49">49</span>
+<span id="LID50" rel="#L50">50</span>
+<span id="LID51" rel="#L51">51</span>
+<span id="LID52" rel="#L52">52</span>
+<span id="LID53" rel="#L53">53</span>
+<span id="LID54" rel="#L54">54</span>
+<span id="LID55" rel="#L55">55</span>
+<span id="LID56" rel="#L56">56</span>
+<span id="LID57" rel="#L57">57</span>
+<span id="LID58" rel="#L58">58</span>
+<span id="LID59" rel="#L59">59</span>
+<span id="LID60" rel="#L60">60</span>
+<span id="LID61" rel="#L61">61</span>
+</pre>
+          </td>
+          <td width="100%">
+            
+              <div class="highlight"><pre><div class="line" id="LC1"><span class="nc">.highlight</span>  <span class="p">{</span> <span class="k">background</span><span class="o">:</span> <span class="m">#ffffff</span><span class="p">;</span> <span class="p">}</span></div><div class="line" id="LC2"><span class="nc">.highlight</span> <span class="nc">.c</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#999988</span><span class="p">;</span> <span class="k">font-style</span><span class="o">:</span> <span class="k">italic</span> <span class="p">}</span> <span class="c">/* Comment */</span></div><div class="line" id="LC3"><span class="nc">.highlight</span> <span class="nc">.err</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#a61717</span><span class="p">;</span> <span class="k">background-color</span><span class="o">:</span> <span class="m">#e3d2d2</span> <span class="p">}</span> <span class="c">/* Error */</span></div><div class="line" id="LC4"><span class="nc">.highlight</span> <span class="nc">.k</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Keyword */</span></div><div class="line" id="LC5"><span class="nc">.highlight</span> <span class="nc">.o</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Operator */</span></div><div class="line" id="LC6"><span class="nc">.highlight</span> <span class="nc">.cm</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#999988</span><span class="p">;</span> <span class="k">font-style</span><span class="o">:</span> <span class="k">italic</span> <span class="p">}</span> <span class="c">/* Comment.Multiline */</span></div><div class="line" id="LC7"><span class="nc">.highlight</span> <span class="nc">.cp</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#999999</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Comment.Preproc */</span></div><div class="line" id="LC8"><span class="nc">.highlight</span> <span class="nc">.c1</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#999988</span><span class="p">;</span> <span class="k">font-style</span><span class="o">:</span> <span class="k">italic</span> <span class="p">}</span> <span class="c">/* Comment.Single */</span></div><div class="line" id="LC9"><span class="nc">.highlight</span> <span class="nc">.cs</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#999999</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span><span class="p">;</span> <span class="k">font-style</span><span class="o">:</span> <span class="k">italic</span> <span class="p">}</span> <span class="c">/* Comment.Special */</span></div><div class="line" id="LC10"><span class="nc">.highlight</span> <span class="nc">.gd</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#000000</span><span class="p">;</span> <span class="k">background-color</span><span class="o">:</span> <span class="m">#ffdddd</span> <span class="p">}</span> <span class="c">/* Generic.Deleted */</span></div><div class="line" id="LC11"><span class="nc">.highlight</span> <span class="nc">.gd</span> <span class="nc">.x</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#000000</span><span class="p">;</span> <span class="k">background-color</span><span class="o">:</span> <span class="m">#ffaaaa</span> <span class="p">}</span> <span class="c">/* Generic.Deleted.Specific */</span></div><div class="line" id="LC12"><span class="nc">.highlight</span> <span class="nc">.ge</span> <span class="p">{</span> <span class="k">font-style</span><span class="o">:</span> <span class="k">italic</span> <span class="p">}</span> <span class="c">/* Generic.Emph */</span></div><div class="line" id="LC13"><span class="nc">.highlight</span> <span class="nc">.gr</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#aa0000</span> <span class="p">}</span> <span class="c">/* Generic.Error */</span></div><div class="line" id="LC14"><span class="nc">.highlight</span> <span class="nc">.gh</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#999999</span> <span class="p">}</span> <span class="c">/* Generic.Heading */</span></div><div class="line" id="LC15"><span class="nc">.highlight</span> <span class="nc">.gi</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#000000</span><span class="p">;</span> <span class="k">background-color</span><span class="o">:</span> <span class="m">#ddffdd</span> <span class="p">}</span> <span class="c">/* Generic.Inserted */</span></div><div class="line" id="LC16"><span class="nc">.highlight</span> <span class="nc">.gi</span> <span class="nc">.x</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#000000</span><span class="p">;</span> <span class="k">background-color</span><span class="o">:</span> <span class="m">#aaffaa</span> <span class="p">}</span> <span class="c">/* Generic.Inserted.Specific */</span></div><div class="line" id="LC17"><span class="nc">.highlight</span> <span class="nc">.go</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#888888</span> <span class="p">}</span> <span class="c">/* Generic.Output */</span></div><div class="line" id="LC18"><span class="nc">.highlight</span> <span class="nc">.gp</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#555555</span> <span class="p">}</span> <span class="c">/* Generic.Prompt */</span></div><div class="line" id="LC19"><span class="nc">.highlight</span> <span class="nc">.gs</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Generic.Strong */</span></div><div class="line" id="LC20"><span class="nc">.highlight</span> <span class="nc">.gu</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#aaaaaa</span> <span class="p">}</span> <span class="c">/* Generic.Subheading */</span></div><div class="line" id="LC21"><span class="nc">.highlight</span> <span class="nc">.gt</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#aa0000</span> <span class="p">}</span> <span class="c">/* Generic.Traceback */</span></div><div class="line" id="LC22"><span class="nc">.highlight</span> <span class="nc">.kc</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Keyword.Constant */</span></div><div class="line" id="LC23"><span class="nc">.highlight</span> <span class="nc">.kd</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Keyword.Declaration */</span></div><div class="line" id="LC24"><span class="nc">.highlight</span> <span class="nc">.kp</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Keyword.Pseudo */</span></div><div class="line" id="LC25"><span class="nc">.highlight</span> <span class="nc">.kr</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Keyword.Reserved */</span></div><div class="line" id="LC26"><span class="nc">.highlight</span> <span class="nc">.kt</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#445588</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Keyword.Type */</span></div><div class="line" id="LC27"><span class="nc">.highlight</span> <span class="nc">.m</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#009999</span> <span class="p">}</span> <span class="c">/* Literal.Number */</span></div><div class="line" id="LC28"><span class="nc">.highlight</span> <span class="nc">.s</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String */</span></div><div class="line" id="LC29"><span class="nc">.highlight</span> <span class="nc">.na</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#008080</span> <span class="p">}</span> <span class="c">/* Name.Attribute */</span></div><div class="line" id="LC30"><span class="nc">.highlight</span> <span class="nc">.nb</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#0086B3</span> <span class="p">}</span> <span class="c">/* Name.Builtin */</span></div><div class="line" id="LC31"><span class="nc">.highlight</span> <span class="nc">.nc</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#445588</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Name.Class */</span></div><div class="line" id="LC32"><span class="nc">.highlight</span> <span class="nc">.no</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#008080</span> <span class="p">}</span> <span class="c">/* Name.Constant */</span></div><div class="line" id="LC33"><span class="nc">.highlight</span> <span class="nc">.ni</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#800080</span> <span class="p">}</span> <span class="c">/* Name.Entity */</span></div><div class="line" id="LC34"><span class="nc">.highlight</span> <span class="nc">.ne</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#990000</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Name.Exception */</span></div><div class="line" id="LC35"><span class="nc">.highlight</span> <span class="nc">.nf</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#990000</span><span class="p">;</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Name.Function */</span></div><div class="line" id="LC36"><span class="nc">.highlight</span> <span class="nc">.nn</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#555555</span> <span class="p">}</span> <span class="c">/* Name.Namespace */</span></div><div class="line" id="LC37"><span class="nc">.highlight</span> <span class="nc">.nt</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#000080</span> <span class="p">}</span> <span class="c">/* Name.Tag */</span></div><div class="line" id="LC38"><span class="nc">.highlight</span> <span class="nc">.nv</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#008080</span> <span class="p">}</span> <span class="c">/* Name.Variable */</span></div><div class="line" id="LC39"><span class="nc">.highlight</span> <span class="nc">.ow</span> <span class="p">{</span> <span class="k">font-weight</span><span class="o">:</span> <span class="k">bold</span> <span class="p">}</span> <span class="c">/* Operator.Word */</span></div><div class="line" id="LC40"><span class="nc">.highlight</span> <span class="nc">.w</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#bbbbbb</span> <span class="p">}</span> <span class="c">/* Text.Whitespace */</span></div><div class="line" id="LC41"><span class="nc">.highlight</span> <span class="nc">.mf</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#009999</span> <span class="p">}</span> <span class="c">/* Literal.Number.Float */</span></div><div class="line" id="LC42"><span class="nc">.highlight</span> <span class="nc">.mh</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#009999</span> <span class="p">}</span> <span class="c">/* Literal.Number.Hex */</span></div><div class="line" id="LC43"><span class="nc">.highlight</span> <span class="nc">.mi</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#009999</span> <span class="p">}</span> <span class="c">/* Literal.Number.Integer */</span></div><div class="line" id="LC44"><span class="nc">.highlight</span> <span class="nc">.mo</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#009999</span> <span class="p">}</span> <span class="c">/* Literal.Number.Oct */</span></div><div class="line" id="LC45"><span class="nc">.highlight</span> <span class="nc">.sb</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Backtick */</span></div><div class="line" id="LC46"><span class="nc">.highlight</span> <span class="nc">.sc</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Char */</span></div><div class="line" id="LC47"><span class="nc">.highlight</span> <span class="nc">.sd</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Doc */</span></div><div class="line" id="LC48"><span class="nc">.highlight</span> <span class="nc">.s2</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Double */</span></div><div class="line" id="LC49"><span class="nc">.highlight</span> <span class="nc">.se</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Escape */</span></div><div class="line" id="LC50"><span class="nc">.highlight</span> <span class="nc">.sh</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Heredoc */</span></div><div class="line" id="LC51"><span class="nc">.highlight</span> <span class="nc">.si</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Interpol */</span></div><div class="line" id="LC52"><span class="nc">.highlight</span> <span class="nc">.sx</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Other */</span></div><div class="line" id="LC53"><span class="nc">.highlight</span> <span class="nc">.sr</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#009926</span> <span class="p">}</span> <span class="c">/* Literal.String.Regex */</span></div><div class="line" id="LC54"><span class="nc">.highlight</span> <span class="nc">.s1</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#d14</span> <span class="p">}</span> <span class="c">/* Literal.String.Single */</span></div><div class="line" id="LC55"><span class="nc">.highlight</span> <span class="nc">.ss</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#990073</span> <span class="p">}</span> <span class="c">/* Literal.String.Symbol */</span></div><div class="line" id="LC56"><span class="nc">.highlight</span> <span class="nc">.bp</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#999999</span> <span class="p">}</span> <span class="c">/* Name.Builtin.Pseudo */</span></div><div class="line" id="LC57"><span class="nc">.highlight</span> <span class="nc">.vc</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#008080</span> <span class="p">}</span> <span class="c">/* Name.Variable.Class */</span></div><div class="line" id="LC58"><span class="nc">.highlight</span> <span class="nc">.vg</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#008080</span> <span class="p">}</span> <span class="c">/* Name.Variable.Global */</span></div><div class="line" id="LC59"><span class="nc">.highlight</span> <span class="nc">.vi</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#008080</span> <span class="p">}</span> <span class="c">/* Name.Variable.Instance */</span></div><div class="line" id="LC60"><span class="nc">.highlight</span> <span class="nc">.il</span> <span class="p">{</span> <span class="k">color</span><span class="o">:</span> <span class="m">#009999</span> <span class="p">}</span> <span class="c">/* Literal.Number.Integer.Long */</span></div><div class="line" id="LC61">&nbsp;</div></pre></div>
+            
+          </td>
+        </tr>
+      </table>
+    
+  </div>
+
+
+      </div>
+    </div>
+    
+  
+
+
+    </div>
+  
+      
+
+      <div class="push"></div>
+    </div>
+
+    <div id="footer">
+      <div class="site">
+        <div class="info">
+          <div class="links">
+            <a href="http://github.com/blog"><b>Blog</b></a> |
+            <a href="http://support.github.com/">Support</a> |
+            <a href="http://github.com/training">Training</a> |
+            <a href="http://github.com/contact">Contact</a> |
+            <a href="http://develop.github.com">API</a> |
+            <a href="http://twitter.com/github">Status</a> |
+            <a href="http://twitter.com/github">GitHub on Twitter</a> |
+            <a href="http://github.com/guides/home">Help</a>
+
+         </div>
+          <div class="company">
+            <span id="_rrt" title="0.04203s from fe1.rs.github.com">GitHub</span>&trade;
+            is <a href="http://logicalawesome.com/">Logical Awesome</a> &copy;2009 | <a href="/site/terms">Terms of Service</a> | <a href="/site/privacy">Privacy Policy</a>
+          </div>
+        </div>
+        <div class="sponsor">
+          <div>
+            Powered by the <a href="http://www.rackspace.com ">Dedicated
+            Servers</a> and<br/> <a href="http://www.rackspacecloud.com">Cloud
+            Computing</a> of Rackspace Hosting<span>&reg;</span>
+          </div>
+          <a href="http://www.rackspace.com">
+            <img alt="Dedicated Server" src="http://assets1.github.com/images/modules/footer/rackspace_logo.png?8d3a65d56de1b7b1274c6fe5b485bd046ca0d71d" />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div id="coming_soon" style="display:none;">
+      This feature is coming soon.  Sit tight!
+    </div>
+
+    
+        <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-3769691-2");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+    </script>
+
+    
+  </body>
+</html>
+
